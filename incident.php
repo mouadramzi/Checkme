@@ -1,4 +1,4 @@
-<?php include('header.php'); ?>
+<?php include('code.php'); ?>
 
 <div class="container mt-4 ">
     <h2>Ajouter un incident </h2>
